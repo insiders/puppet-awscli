@@ -4,12 +4,7 @@
 
 ## Description
 
-This Puppet module will install [awscli](https://github.com/aws/aws-cli). It is works with Debian, RedHat and OSX(Tested on Yosemite using boxen) based distros.
-
-OSX has been tested on Yosemite only and requires:
-- boxen https://boxen.github.com
-- boxen homebrew https://github.com/boxen/puppet-homebrew.
-- Packages python and brew-pip are require to be install using boxen.
+This Puppet module will install [awscli](https://github.com/aws/aws-cli). It is works with Debian based distros.
 
 ## Installation
 
